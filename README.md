@@ -8,6 +8,9 @@ The project explores **policy formulation, environment representation, observati
 
 ---
 
+![image](https://github.com/user-attachments/assets/2127b949-6442-4707-b836-8bfe6c8e9af8)
+
+
 ## 📜 Abstract
 Reinforcement Learning (RL) is an exciting field in AI where agents learn optimal decision-making in complex environments. This project presents a **Q-learning agent** solving a navigation task in a **grid world environment**. The agent iteratively updates its Q-values and learns to find the **optimal path** to maximize rewards.
 
